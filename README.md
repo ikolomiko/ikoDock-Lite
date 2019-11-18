@@ -1,4 +1,4 @@
-# ikoDock-Lite
+# ikoDock Lite
 
 
 ikoDock Lite ya da eski adıyla ikoDock 3, WinForms kullanarak 2018 başlarında yazdığım oldukça amatör bir programdır.
