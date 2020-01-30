@@ -18,5 +18,4 @@ ikoDock'u kapatmak içinse yapmanız gereken tek şey ikoDock gizli haldeyken ç
 ***
 GitHub'ı kullanmayı öğrenmemle beraber C#'ta yeni olanlara örnek basit bir proje olması amacıyla kaynak kodlarını GitHub'a yükledim. 
 Kodları indirip istediğiniz gibi üzerinde değişiklik yapabilirsiniz. Fikir olarak işe yarar olsa da kod stili olarak kesinlikle 
-örnek alınmaması gereken bir projedir. Çünkü kod stili, son derece düzensiz ve acemicedir. <br><br>
-Eğer daha ileri düzey bir örnek isterseniz WPF tabanlı ikoDock Pro'ya bakabilirsiniz.
+örnek alınmaması gereken bir projedir. Çünkü kod stili, son derece düzensiz ve acemicedir.
